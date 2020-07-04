@@ -6,7 +6,7 @@ import numpy as np
 from scipy.stats import entropy
 
 sys.path.append('../statistics')
-from common import load_iris
+from sklearn.datasets import load_iris
 
 #  used when iterating over potential splits
 CandidateSplit = namedtuple('Candidate', ['entropy', 'weight'])
