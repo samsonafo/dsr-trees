@@ -7,9 +7,10 @@ This repository contains teaching materials for the course on 'Trees' at Data Sc
 Decision Trees
 
 Bagging
+
 -- Random Forest, Extra Trees
 
-Boosting, 
-Gradient Boosted Trees - xgboost
---catboost
+Boosting
+
+Gradient Boosted Trees , catboost
   
