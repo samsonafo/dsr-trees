@@ -76,7 +76,7 @@ These different ensemble methods tackle the tradeoff in different ways
 - forests = high variance, low bias base learners
 - boosting = low variance, high bias base learners
 
-![](assets/var_bias.png)
+![](images/var_bias.png)
 
 [Image from here](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205).
 
@@ -199,9 +199,9 @@ Bagging = **bootstrap aggregation**
 Fundamental idea = averaging across high variance, low bias trees
 - deep trees = low bias, high variance
 
-![](assets/boot.png)
+![](images/boot.png)
 
-![](assets/est.png)
+![](images/est.png)
 
 [Image from here](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
