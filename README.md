@@ -8,13 +8,13 @@ The data folder contains sample data, for examples and exercises, while the imag
 
 Topics considered include: 
 
-Decision Trees.
+**Decision Trees.
 
-Bagging
+**Bagging
 
 -- Random Forest, Extra Trees
 
-Boosting
+**Boosting
 
 -- Gradient Boosted Trees , catboost
 
