@@ -68,6 +68,8 @@ Error = bias + variance + noise
 - variance = fitting to noise
 - bias = missing signal
 
+Read more about Bias and Variance here : https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
+
 These different ensemble methods tackle the tradeoff in different ways
 - forests = high variance, low bias base learners
 - boosting = low variance, high bias base learners

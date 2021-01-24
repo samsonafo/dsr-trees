@@ -12,11 +12,11 @@ Topics considered include:
 
 **Bagging
 
--- Random Forest, Extra Trees
+-- Random Forest
 
 **Boosting
 
--- Gradient Boosted Trees , catboost
+-- Gradient Boosted Trees , catboost, Lightgbm
 
 We also consider encodings, like Mean encoding, label encoding, target encoding etc.
   
