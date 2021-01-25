@@ -16,7 +16,7 @@ Topics considered include:
 
 **Ensemble Methods:Boosting
 
--- Gradient Boosted Trees , catboost, Lightgbm
+-- Adaboost, Gradient Boosted Trees
 
 **Encodings
 
