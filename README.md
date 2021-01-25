@@ -10,13 +10,15 @@ Topics considered include:
 
 **Decision Trees.
 
-**Bagging
+**Ensemble Methods:Bagging
 
 -- Random Forest
 
-**Boosting
+**Ensemble Methods:Boosting
 
 -- Gradient Boosted Trees , catboost, Lightgbm
 
-We also consider encodings, like Mean encoding, label encoding, target encoding etc.
+**Encodings
+
+--Mean encoding, label encoding, target encoding etc.
   
