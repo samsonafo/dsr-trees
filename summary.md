@@ -197,6 +197,8 @@ Bagging = **bootstrap aggregation**
 Fundamental idea = averaging across high variance, low bias trees
 - deep trees = low bias, high variance
 
+** Extra Trees : https://medium.com/@rnbrown/decision-tree-ensemble-methods-6a89181b7083
+
 ![](images/boot.png)
 
 ![](images/est.png)
