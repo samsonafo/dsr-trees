@@ -315,6 +315,8 @@ The combination of these two prediction is the prediction of a gradient boosted 
 
 ## Gradient boosted trees
 
+Read about Adaboost here: https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe
+
 XGBoost + feature engineering = most Kaggle winners
 
 Next tree trained to improve the already trained ensemble by **predicting the residuals**
@@ -343,6 +345,8 @@ Trees can be small, with just a few terminal nodes
 - [XGBoost](https://xgboost.readthedocs.io/) - start here
 - [CatBoost](https://catboost.ai/) 
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+
+Read about the differences here: https://medium.com/riskified-technology/xgboost-lightgbm-or-catboost-which-boosting-algorithm-should-i-use-e7fda7bb36bc
 
 ## Boosting hyperparameters
 
