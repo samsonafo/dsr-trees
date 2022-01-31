@@ -1,5 +1,7 @@
 ## DSR Trees
 
+![Read-Me](./images/decision_tree_read_me.png)
+
 This repository contains teaching materials for the course on 'Trees' at Data Science Retreat,Berlin.
 
 ## Contents 
