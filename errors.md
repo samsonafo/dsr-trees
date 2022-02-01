@@ -8,6 +8,8 @@ Error = bias + variance + noise
 #### Bias
 Bias is the difference between the average prediction of our model and the correct value which we are trying to predict. Model with high bias pays very little attention to the training data and oversimplifies the model(underfitting).
 
+Bias are the simplifying assumptions made by a model to make the target function easier to learn.Generally, linear algorithms have a high bias making them fast to learn and easier to understand but generally less flexible. Examples of high-bias machine learning algorithms include: Linear Regression, Logistic Regression.
+
 #### Variance
 Variance is the variability of model prediction for a given data point or a value which tells us spread of our data. Model with high variance pays a lot of attention to training data and does not generalize on the data which it hasn’t seen before. As a result, such models perform very well on training data but has high error rates on test data. (Overfitting)
 
