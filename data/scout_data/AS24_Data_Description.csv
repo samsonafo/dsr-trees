@@ -1,0 +1,13 @@
+column name;description
+article_id;unique article identifier
+product_tier;premium status of the article
+make_name;name of the car manufacturer
+price;price of the article
+first_zip_digit;first digit of the zip code of the region the article is offered in
+first_registration_year;year of the first registration of the article
+created_date;creation date of the listing
+deleted_date;deletion date of the listing
+search_views;number of times the article has been shown as a search result
+detail_views;number of times the article has been clicked on
+stock_days;Time in days between the creation of the listing and the deletion of the listing
+ctr;Click through rate calculated as the quotient of detail_views over search_views

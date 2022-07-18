@@ -11,7 +11,9 @@ Bias is the difference between the average prediction of our model and the corre
 Bias are the simplifying assumptions made by a model to make the target function easier to learn.Generally, linear algorithms have a high bias making them fast to learn and easier to understand but generally less flexible. Examples of high-bias machine learning algorithms include: Linear Regression, Logistic Regression.
 
 #### Variance
-Variance is the variability of model prediction for a given data point or a value which tells us spread of our data. Model with high variance pays a lot of attention to training data and does not generalize on the data which it hasn’t seen before. As a result, such models perform very well on training data but has high error rates on test data. (Overfitting)
+Variance is the variability of model prediction for a given data point or a value which tells us spread of our data. Model with high variance pays a lot of attention to training data and does not generalize on the data which it hasn’t seen before. As a result, such models perform very well on training data but has high error rates on test data. (Overfitting). 
+
+Variance is the amount that the estimate of the target function will change if different training data was used.
 
 High variance may result from an algorithm modeling the random noise in the training data
 
@@ -35,6 +37,11 @@ These different ensemble methods tackle the tradeoff in different ways
 - boosting = low variance, high bias base learners
 
 ** The component / individual learner of the ensemble which are combined strategically is referred to as Base learners.
+
+
+Further Reading: 
+1. https://bit.ly/3Oi3cmH  (Overfitting and Underfitting With Machine Learning Algorithms)
+2. https://bit.ly/3aLv4Su  (Understanding the Bias-Variance Tradeoff)
 
 
 
