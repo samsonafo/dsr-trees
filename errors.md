@@ -29,6 +29,10 @@ Unfortunately, it is typically impossible to do both simultaneously. High-varian
 
 In contrast, algorithms with high bias typically produce simpler models that may fail to capture important regularities (i.e. underfit) in the data. (Wikipedia)
 
+**Overfitting: Good performance on the training data, poor generliazation to other data.
+
+**Underfitting: Poor performance on the training data and poor generalization to other data
+
 ![Bias, Varaince Tradeoff](./images/bias_var_tradeoff.png)
 
 
