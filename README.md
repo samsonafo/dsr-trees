@@ -14,7 +14,7 @@ Topics considered include:
 
 **Ensemble Methods:Bagging
 
--- Random Forest
+-- Random Forest, ExtraTrees
 
 **Ensemble Methods:Boosting
 
